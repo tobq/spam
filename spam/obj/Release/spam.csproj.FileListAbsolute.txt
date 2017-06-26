@@ -1,0 +1,22 @@
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\Spam.dll.config
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\Spam.dll
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\Spam.pdb
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\Eavesdrop.dll
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\FlashInspect.dll
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\Sulakore.dll
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\bin\Release\Tangine.dll
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\obj\Release\Spam.Properties.Resources.resources
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\obj\Release\Spam.Spam.resources
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\obj\Release\spam.csproj.GenerateResource.Cache
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\obj\Release\Spam.dll
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\obj\Release\Spam.pdb
+C:\Users\Tobi\Documents\Visual Studio 2015\Projects\spam\spam\obj\Release\spam.csprojResolveAssemblyReference.cache
+C:\Users\Tobi\Desktop\spam-master\spam\bin\Release\Spam.dll.config
+C:\Users\Tobi\Desktop\spam-master\spam\bin\Release\Spam.dll
+C:\Users\Tobi\Desktop\spam-master\spam\bin\Release\Spam.pdb
+C:\Users\Tobi\Desktop\spam-master\spam\obj\Release\spam.csprojResolveAssemblyReference.cache
+C:\Users\Tobi\Desktop\spam-master\spam\obj\Release\spam.csproj.GenerateResource.Cache
+C:\Users\Tobi\Desktop\spam-master\spam\obj\Release\Spam.dll
+C:\Users\Tobi\Desktop\spam-master\spam\obj\Release\Spam.pdb
+C:\Users\Tobi\Desktop\spam-master\spam\obj\Release\Spam.Properties.Resources.resources
+C:\Users\Tobi\Desktop\spam-master\spam\obj\Release\Spam.Spam.resources
